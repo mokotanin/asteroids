@@ -49,7 +49,7 @@ Make sure to use Python 3.10. You will need to install the following packages:
      - GLSL code used to display a glowy-line laser/bullet.
    * - `glow_line.py <source/glow_line.py>`_
      - Python code used to position and render the GLSL bullet code.
-   * - ship_sprite.py
+   * - `ship_sprite.py <source/ship_sprite.py>`_
      - Space ship sprite to represent the player.
    * - `start_view.py <source/start_view.py>`_
      - The starting screen that shows the instructions and allows the user to
