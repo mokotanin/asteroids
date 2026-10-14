@@ -8,6 +8,12 @@ An asteroids clone made with the `Arcade library <https://api.arcade.academy>`_.
 
 This example is designed to show off using shaders for visual effects.
 
+## Dependencies
+Make sure to use Python 3.10. You will need to install the following packages:
+```
+pip install -r requirements.txt
+```
+
 .. list-table:: Project Files
    :widths: 25 75
    :header-rows: 1
@@ -47,4 +53,3 @@ This example is designed to show off using shaders for visual effects.
        select number of players.
    * - `window.py <source/window.py>`_
      - A subclass of Window that also tracks the joysticks that are plugged in.
-
