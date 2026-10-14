@@ -8,11 +8,14 @@ An asteroids clone made with the `Arcade library <https://api.arcade.academy>`_.
 
 This example is designed to show off using shaders for visual effects.
 
-## Dependencies
+Dependencies
+------------
+
 Make sure to use Python 3.10. You will need to install the following packages:
-```
-pip install -r requirements.txt
-```
+
+.. code-block:: console
+
+   pip install -r requirements.txt
 
 .. list-table:: Project Files
    :widths: 25 75
